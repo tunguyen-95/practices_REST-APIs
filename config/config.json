@@ -1,0 +1,20 @@
+{
+  "development": {
+    "DATABASE": {
+      "HOST": "127.0.0.1",
+      "PORT": 5432,
+      "NAME": "assignment",
+      "USERNAME": "postgres",
+      "PASSWORD": "Za0077879"
+    }
+  },
+  "production": {
+    "DATABASE": {
+      "HOST": "127.0.0.1",
+      "PORT": 5432,
+      "NAME": "assignment",
+      "USERNAME": "postgres",
+      "PASSWORD": "Za0077879"
+    }
+  }
+}
