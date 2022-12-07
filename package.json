@@ -21,8 +21,8 @@
   },
   "homepage": "git@github.com:tunguyen-95/restfull-apis-assignment.git",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.8.6"
